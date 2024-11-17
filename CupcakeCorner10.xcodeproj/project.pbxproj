@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1FCD8D442CE7EC1100CA06D6 /* CupcakeCorner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CupcakeCorner.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1FCD8D542CE7EC1200CA06D6 /* CupcakeCornerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CupcakeCornerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1FCD8D5E2CE7EC1200CA06D6 /* CupcakeCornerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CupcakeCornerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FCD8D442CE7EC1100CA06D6 /* CupcakeCorner10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CupcakeCorner10.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FCD8D542CE7EC1200CA06D6 /* CupcakeCorner10Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CupcakeCorner10Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FCD8D5E2CE7EC1200CA06D6 /* CupcakeCorner10UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CupcakeCorner10UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,9 +85,9 @@
 		1FCD8D452CE7EC1100CA06D6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1FCD8D442CE7EC1100CA06D6 /* CupcakeCorner.app */,
-				1FCD8D542CE7EC1200CA06D6 /* CupcakeCornerTests.xctest */,
-				1FCD8D5E2CE7EC1200CA06D6 /* CupcakeCornerUITests.xctest */,
+				1FCD8D442CE7EC1100CA06D6 /* CupcakeCorner10.app */,
+				1FCD8D542CE7EC1200CA06D6 /* CupcakeCorner10Tests.xctest */,
+				1FCD8D5E2CE7EC1200CA06D6 /* CupcakeCorner10UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1FCD8D432CE7EC1100CA06D6 /* CupcakeCorner */ = {
+		1FCD8D432CE7EC1100CA06D6 /* CupcakeCorner10 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1FCD8D682CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCorner" */;
+			buildConfigurationList = 1FCD8D682CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCorner10" */;
 			buildPhases = (
 				1FCD8D402CE7EC1100CA06D6 /* Sources */,
 				1FCD8D412CE7EC1100CA06D6 /* Frameworks */,
@@ -110,16 +110,16 @@
 			fileSystemSynchronizedGroups = (
 				1FCD8D462CE7EC1100CA06D6 /* CupcakeCorner */,
 			);
-			name = CupcakeCorner;
+			name = CupcakeCorner10;
 			packageProductDependencies = (
 			);
 			productName = CupcakeCorner;
-			productReference = 1FCD8D442CE7EC1100CA06D6 /* CupcakeCorner.app */;
+			productReference = 1FCD8D442CE7EC1100CA06D6 /* CupcakeCorner10.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1FCD8D532CE7EC1200CA06D6 /* CupcakeCornerTests */ = {
+		1FCD8D532CE7EC1200CA06D6 /* CupcakeCorner10Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1FCD8D6B2CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCornerTests" */;
+			buildConfigurationList = 1FCD8D6B2CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCorner10Tests" */;
 			buildPhases = (
 				1FCD8D502CE7EC1200CA06D6 /* Sources */,
 				1FCD8D512CE7EC1200CA06D6 /* Frameworks */,
@@ -133,16 +133,16 @@
 			fileSystemSynchronizedGroups = (
 				1FCD8D572CE7EC1200CA06D6 /* CupcakeCornerTests */,
 			);
-			name = CupcakeCornerTests;
+			name = CupcakeCorner10Tests;
 			packageProductDependencies = (
 			);
 			productName = CupcakeCornerTests;
-			productReference = 1FCD8D542CE7EC1200CA06D6 /* CupcakeCornerTests.xctest */;
+			productReference = 1FCD8D542CE7EC1200CA06D6 /* CupcakeCorner10Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		1FCD8D5D2CE7EC1200CA06D6 /* CupcakeCornerUITests */ = {
+		1FCD8D5D2CE7EC1200CA06D6 /* CupcakeCorner10UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1FCD8D6E2CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCornerUITests" */;
+			buildConfigurationList = 1FCD8D6E2CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCorner10UITests" */;
 			buildPhases = (
 				1FCD8D5A2CE7EC1200CA06D6 /* Sources */,
 				1FCD8D5B2CE7EC1200CA06D6 /* Frameworks */,
@@ -156,11 +156,11 @@
 			fileSystemSynchronizedGroups = (
 				1FCD8D612CE7EC1200CA06D6 /* CupcakeCornerUITests */,
 			);
-			name = CupcakeCornerUITests;
+			name = CupcakeCorner10UITests;
 			packageProductDependencies = (
 			);
 			productName = CupcakeCornerUITests;
-			productReference = 1FCD8D5E2CE7EC1200CA06D6 /* CupcakeCornerUITests.xctest */;
+			productReference = 1FCD8D5E2CE7EC1200CA06D6 /* CupcakeCorner10UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1FCD8D3F2CE7EC1100CA06D6 /* Build configuration list for PBXProject "CupcakeCorner" */;
+			buildConfigurationList = 1FCD8D3F2CE7EC1100CA06D6 /* Build configuration list for PBXProject "CupcakeCorner10" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1FCD8D432CE7EC1100CA06D6 /* CupcakeCorner */,
-				1FCD8D532CE7EC1200CA06D6 /* CupcakeCornerTests */,
-				1FCD8D5D2CE7EC1200CA06D6 /* CupcakeCornerUITests */,
+				1FCD8D432CE7EC1100CA06D6 /* CupcakeCorner10 */,
+				1FCD8D532CE7EC1200CA06D6 /* CupcakeCorner10Tests */,
+				1FCD8D5D2CE7EC1200CA06D6 /* CupcakeCorner10UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		1FCD8D562CE7EC1200CA06D6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1FCD8D432CE7EC1100CA06D6 /* CupcakeCorner */;
+			target = 1FCD8D432CE7EC1100CA06D6 /* CupcakeCorner10 */;
 			targetProxy = 1FCD8D552CE7EC1200CA06D6 /* PBXContainerItemProxy */;
 		};
 		1FCD8D602CE7EC1200CA06D6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1FCD8D432CE7EC1100CA06D6 /* CupcakeCorner */;
+			target = 1FCD8D432CE7EC1100CA06D6 /* CupcakeCorner10 */;
 			targetProxy = 1FCD8D5F2CE7EC1200CA06D6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -404,12 +404,13 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.francisco.armando.CupcakeCorner;
+				PRODUCT_BUNDLE_IDENTIFIER = com.francisco.armando.CupcakeCorner10;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -433,12 +434,13 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.francisco.armando.CupcakeCorner;
+				PRODUCT_BUNDLE_IDENTIFIER = com.francisco.armando.CupcakeCorner10;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -461,7 +463,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CupcakeCorner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CupcakeCorner";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CupcakeCorner10.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CupcakeCorner10";
 			};
 			name = Debug;
 		};
@@ -480,7 +482,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CupcakeCorner.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CupcakeCorner";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CupcakeCorner10.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CupcakeCorner10";
 			};
 			name = Release;
 		};
@@ -521,7 +523,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1FCD8D3F2CE7EC1100CA06D6 /* Build configuration list for PBXProject "CupcakeCorner" */ = {
+		1FCD8D3F2CE7EC1100CA06D6 /* Build configuration list for PBXProject "CupcakeCorner10" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FCD8D662CE7EC1200CA06D6 /* Debug */,
@@ -530,7 +532,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1FCD8D682CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCorner" */ = {
+		1FCD8D682CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCorner10" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FCD8D692CE7EC1200CA06D6 /* Debug */,
@@ -539,7 +541,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1FCD8D6B2CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCornerTests" */ = {
+		1FCD8D6B2CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCorner10Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FCD8D6C2CE7EC1200CA06D6 /* Debug */,
@@ -548,7 +550,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1FCD8D6E2CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCornerUITests" */ = {
+		1FCD8D6E2CE7EC1200CA06D6 /* Build configuration list for PBXNativeTarget "CupcakeCorner10UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1FCD8D6F2CE7EC1200CA06D6 /* Debug */,
